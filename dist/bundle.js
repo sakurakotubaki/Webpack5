@@ -1,0 +1,1 @@
+(()=>{"use strict";window.alert("greetメソッドが実行された!!!!"),console.log("Good After Noon☕️😁"),console.log("入力された名前は、橋本純一さん")})();
